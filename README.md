@@ -25,7 +25,7 @@ iOS动效技术交流群：434819983
 ### Prototype
 
 * [Calendar animation](https://dribbble.com/shots/2792995-Calendar-animation)
-* [BulingBuling Like Button](https://dribbble.com/shots/2689861-My-Projects-Concept)
+* [BulingBuling Like Button](https://dribbble.com/shots/2689861-My-Projects-Concept) -> WenGuang Wang
 * [Cut out](https://dribbble.com/shots/2793061-Cut-out)
 * [Feedback](https://dribbble.com/shots/2790473-Feedback)
 * [Download Water Animation](https://dribbble.com/shots/2785355-Animation-on-a-concept-draft-downloads) -> Desgard_Duan
