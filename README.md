@@ -17,7 +17,7 @@ Sweet iOS Animation 用于**Sweet iOS Animation开源组织**推广原创iOS动�
 * [Desgard_Duan](https://github.com/dgytdhy)
   * [DGThumbUpButton](https://github.com/dgytdhy/DGThumbUpButton) - Drop-in button control with with particle effects similar to the Like button in Facebook Paper.
   * [DGPopUpViewController](https://github.com/dgytdhy/DGPopUpViewController) - A flat card pop-up view. [Prototype](https://dribbble.com/shots/2770326-Sign-up-prototype) from [Sarah](https://dribbble.com/sarahjess)
-  * [DGDownloaderButton](#) - Loading... [Prototype](https://dribbble.com/shots/2785355-Animation-on-a-concept-draft-downloads) from [SamuraiChen](https://dribbble.com/SamuraiChen)
+
 
 
 ### Prototype
