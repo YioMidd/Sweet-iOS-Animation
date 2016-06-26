@@ -6,7 +6,9 @@ Sweet iOS Animation 用于**Sweet iOS Animation开源组织**推广原创iOS动�
 
 定期从[Dribbble](https://dribbble.com/)获取优质动画原形，来发起成员实现。
 
-成员可从**Prototype**一栏中选择置顶原型图来接受。然后自己及时将其地址更新至**Content**栏自己署名的对应位置。
+发起issue，可从**Prototype**一栏中选择置顶原型图来接受。然后自己及时将其地址更新至**Content**栏自己署名的对应位置。
+
+技术交流群：434819983
 
 ### How to use
 
@@ -15,7 +17,7 @@ Sweet iOS Animation 用于**Sweet iOS Animation开源组织**推广原创iOS动�
 ### Content
 
 * [Desgard_Duan](https://github.com/dgytdhy)
-  * [DGThumbUpButton](https://github.com/dgytdhy/DGThumbUpButton) - Drop-in button control with with particle effects similar to the Like button in Facebook Paper.
+  * [DGThumbUpButton](https://github.com/dgytdhy/DGThumbUpButton) - Drop-in button control with particle effects similar to the Like button in Facebook Paper.
   * [DGPopUpViewController](https://github.com/dgytdhy/DGPopUpViewController) - A flat card pop-up view. [Prototype](https://dribbble.com/shots/2770326-Sign-up-prototype) from [Sarah](https://dribbble.com/sarahjess)
 
 
