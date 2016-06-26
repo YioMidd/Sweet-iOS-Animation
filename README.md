@@ -8,7 +8,7 @@ Sweet iOS Animation 用于**Sweet iOS Animation开源组织**推广原创iOS动�
 
 发起issue，可从**Prototype**一栏中选择置顶原型图来接受。然后自己及时将其地址更新至**Content**栏自己署名的对应位置。
 
-技术交流群：434819983
+iOS动效技术交流群：434819983
 
 ### How to use
 
