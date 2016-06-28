@@ -22,6 +22,7 @@ iOS动效技术交流群：434819983
 
 
 
+
 ### Prototype
 
 * [Calendar animation](https://dribbble.com/shots/2792995-Calendar-animation)
@@ -30,4 +31,6 @@ iOS动效技术交流群：434819983
 * [Feedback](https://dribbble.com/shots/2790473-Feedback)
 * [Download Water Animation](https://dribbble.com/shots/2785355-Animation-on-a-concept-draft-downloads) -> Desgard_Duan
 * [Expanding Menu](https://dribbble.com/shots/2793664-Expanding-Menu) -> XuZhongqiang
+* [Loading App](https://dribbble.com/shots/2797186-Loading-App)
+* [Thank you, appreciate it!](https://dribbble.com/shots/2800857-Thank-you-appreciate-it)
   
